@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #feb73f;
+}
+
+main {
+    background-color: #FFFF;
+    height: 35vh;
+    width: 38vw;
+}
+
+.expanding_card {
+    display: flex;
+    align-items: center;
+    border: lightgrey solid 1px;
+    height: 33.3%;
+    width: 100%;
+}
+
+h2 {
+    font-family: Roboto;
+    margin-left: 5%;
+}
